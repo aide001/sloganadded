@@ -1,0 +1,714 @@
+body {
+
+    font-family: "Arial"
+}
+
+
+#title {
+    
+    
+    padding: 3% 5%;
+    background-color: #13003F;
+    text-align:center;
+    
+    
+   }
+
+   .nav-link {
+text-align:left;
+padding: 0% 4%;
+
+   }
+
+   
+
+  .logo{
+    
+    width:7%;
+    margin-right: 4px;
+    margin-bottom:1px;
+  }
+
+   .navbar {
+    padding-bottom: 2rem;
+}
+
+   .navbar-brand{
+
+    font-size: 1.5rem;
+    font-family: "Arial";
+    
+   
+    
+   }
+
+  
+   .nav-link {
+font-size:1rem;
+font-family: "Arial";
+font-weight:bold;
+text-decoration: none;
+color: #cef4ab;
+text-align:right;
+padding: 3%;
+
+
+
+   }
+
+   .download-button{
+    margin: 10% 0% 10% 0%;
+    text-align:center;
+    font-size:1.4rem;
+    
+    
+}
+
+.headertext
+{
+    margin-top:30px;
+    color: white;
+    font-size: 1.6rem;
+    line-height: 2;
+    font-family: Arial;
+    text-align:center;
+    padding: 0% 7%;
+}
+
+.secondheader {
+    margin-top:40px;
+    color: lightgray;
+    font-size: 1.2rem;
+    line-height: 2;
+    font-family: Arial;
+    text-align:center;
+    padding: 0% 12%;
+}
+
+
+.headertext2
+{
+    margin-top:30px;
+    color: white;
+    font-size: 2.5rem;
+    line-height: 2;
+    font-family: Arial;
+}
+
+.slogan {
+
+    font-size:0.8rem;
+    margin-left: 0px;
+    font-style: italic;
+    font-family: "Arial";
+
+   }
+
+
+h1{
+    font-family: "Arial";
+    text-align: center;
+    font-size: 1.2rem;
+    line-height: 1.5;
+    color: white;
+    
+}
+
+
+h2{
+
+    font-family: "Arial";
+    
+    font-size: 1.2rem;
+    line-height: 1.5;
+}
+
+h3{
+    font-family: "Arial";
+    font-weight:bold;
+    font-size: 1.2rem;
+    line-height: 1.5;
+    color:white;
+}
+
+
+.title-image{
+    
+    width: 60%;
+    margin-left:20px;
+    
+}
+
+
+
+
+/*- Features Section */
+
+#features{
+    
+    background-color:#423365 ;
+    font-family: 'Arial';
+    padding: 0 10%;
+    color: lightgray;
+
+        }
+
+.feature-box {
+    text-align:center;
+    padding: 5%;
+
+}
+
+.icon{
+
+    color: white;
+    margin-bottom: 1rem;
+
+
+    }
+
+.icon:hover {
+ color: #cef4ab;
+
+}
+
+
+
+/*- Testimonials Section */
+
+#testimonials {
+
+    padding: 5% 10%;
+    text-align:center;
+    background-color: #13003F;
+    color: white;
+    
+
+    }
+
+    .testimonialstext {
+
+        font-family: "Arial";
+        text-align: center;
+        font-size: 1.6rem;
+        line-height: 1.5;
+        color:  white;
+        padding: 0% 0%;
+        margin-bottom: 40px;
+
+    }
+    
+    .testimonial-image {
+    
+        width: 150px;
+        height: 150px;
+        border-radius:20%;
+        margin:15px;
+        text-align: center;
+    }
+
+    .testimonial-text{
+        text-align: center;
+        font-family: 'Arial';
+        font-size: 1rem;
+        margin-bottom:60px;
+        color:lightslategray;
+                
+    }
+    
+    .personname {
+
+        width:100%;
+        text-align: center;
+        font-family: 'Arial';
+        font-size: 0.8rem;
+        font-style: italic;
+        color: #cef4ab;
+            }
+            
+            
+            
+        hr {
+            margin:0px;
+            color:#1d113a;
+            background-color:#1d113a;
+        }
+ 
+
+
+    
+    /*- Press Section */
+    
+    #press {
+    
+         
+        text-align:center;
+        padding: 5% 10%;
+        background-color:#423365 ;
+              
+            
+        
+    
+    }
+
+
+    .logotext {
+        font-family: "Arial";
+        text-align: center;
+        font-size: 1rem;
+        line-height: 1.5;
+        color: white;
+        padding: 0% 0%;
+        font-weight:bold;
+    }
+
+      
+    .press-logo {
+        width:40%;
+        padding: 5%;
+        
+        
+    }
+
+    .presstext {
+
+        font-family: "Arial";
+        text-align: center;
+        font-size: 1.6rem;
+        line-height: 1.5;
+        color: white;
+        padding: 0% 0%;
+        margin-bottom: 40px;
+        padding-top: 3%;
+        
+
+    }
+
+    .presstext2{
+
+        font-family: "Arial";
+        text-align: center;
+        font-size: 1.7rem;
+        line-height: 1.5;
+        color: white;
+        padding: 5% 0% 0% 0%;
+
+    }
+
+
+    .firstlogo {
+padding:0%;
+
+    }
+
+    .secondlogo {
+        padding:0%;
+
+    }
+
+
+
+    /*- Pricing */
+
+
+#pricing {
+
+    padding: 5% 10%;
+    background-color: #13003F;
+    
+}
+
+.signup-button {
+
+    
+    font-family: 'Arial';
+}
+
+.pricing-column {
+padding: 3% 2%;
+
+    font-family: Arial;
+    color: #13003F;
+    
+
+}
+
+.pricingheader {
+    color: white;
+    font-size: 1.6rem;
+   
+    font-family: Arial;
+    text-align:center;
+    
+}
+
+
+.pricingsecond {
+
+    color:lightslategray;
+    font-size: 1rem;
+    
+    font-family: Arial;
+    text-align:center;
+
+}
+
+
+.pricingcost{
+
+   
+    font-family: Arial;
+    color: #13003F;
+    font-size: 1.4rem;
+    font-weight: bold;
+
+}
+
+.pricingcost2 {
+
+    font-family: Arial;
+    color: white;
+    font-size: 1.5rem;
+    font-weight: bold;
+    background-color: darkblue;
+}
+
+.planname {
+   
+    font-family: Arial;
+    color: #13003F;
+    font-size: 1.5rem;
+    font-weight: bold;
+
+}
+
+.icontick {
+
+    color: #13003F;
+    
+}
+
+.card-body {
+    background-color: white;
+    color: #13003F;
+}
+
+.card-header {
+
+    background-color: white;
+}
+
+.card {
+    color:white;
+    background-color: white;
+
+}
+
+.pricingaccounts {
+    padding: 1%;
+    
+}
+
+
+/*- Call To Action */
+
+
+
+#cta {
+    padding: 7% 15%;
+    background-color: #423365 ;
+    color: white;
+    text-align:center;
+    
+}
+
+.cta-heading {
+    color: white;
+    font-family: "Arial";
+    font-weight: 900;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    margin-bottom: 30px;
+}
+
+/*- Footer */
+
+#footer{
+
+    padding: 7% 15%;
+    background-color: #13003F;
+    text-align: center;
+    
+}
+
+.socialicon {
+
+    margin:20px 10px;
+    color:white;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 2%;
+    
+
+}
+
+.copyright {
+
+    color:white;
+    font-family: arial;
+    font-size: 0.6rem;
+}
+
+.footerlogo {
+
+    width:50%;
+    
+    
+    
+
+}
+
+@media (min-width:1028px) {
+
+    
+
+
+    #title {
+    
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-color: #13003F;
+        text-align:left;
+        
+       
+
+}
+    .headertext
+    {
+        margin-top:60px;
+        color: white;
+        font-size: 2.5rem;
+        line-height: 2;
+        font-family: Arial;
+        text-align:left;
+        padding: 0% 15%;
+    }
+
+    .secondheader {
+        margin-top:40px;
+        color: white;
+        font-size: 1.8rem;
+        line-height: 2;
+        font-family: Arial;
+        text-align:left;
+        padding: 0% 15%;
+    }
+
+
+
+
+.download-button{
+ margin: 5% 0% 6% 15%;
+ text-align:left;
+ font-size:1.4rem;
+ 
+ 
+ 
+}
+
+h3{
+    font-family: "Arial";
+    font-weight:bold;
+    font-size: 1.5rem;
+    line-height: 1.2;
+    color:white;
+}
+
+
+#features{
+    
+    background-color:#423365 ;
+    font-family: 'Arial';
+    padding: 4% 15%;
+    color: lightgray;
+
+        }
+
+
+        #testimonials {
+
+            padding: 7% 15%;
+            text-align:center;
+            background-color: #13003F;
+            color: white;
+            
+        
+            }
+
+            .testimonialstext {
+
+                font-family: "Arial";
+                text-align: center;
+                font-size: 2.5rem;
+                line-height: 1.5;
+                color:  white;
+                
+                margin-bottom: 40px;
+        
+            }
+            
+            .testimonial-image {
+            
+                width: 150px;
+                height: 150px;
+                border-radius:20%;
+                margin:15px;
+                text-align: center;
+            }
+        
+            .testimonial-text{
+                text-align: center;
+                font-family: 'Arial';
+                font-size: 1.2rem;
+                margin-bottom:60px;
+                padding:0 8%;
+                
+                color:lightslategray;
+                        
+            }
+            
+            .personname {
+        
+                width:100%;
+                text-align: center;
+                font-family: 'Arial';
+                font-size: 0.8rem;
+                font-style: italic;
+                color: #cef4ab;
+                    }
+
+                    .cta-heading {
+                        color: white;
+                        font-family: "Arial";
+                        font-weight: 900;
+                        font-size: 2rem;
+                        line-height: 2;
+                        margin-bottom: 30px;
+                    }
+
+                    #press {
+    
+         
+                        text-align:center;
+                        padding: 5% 15%;
+                        background-color:#423365 ;
+                              
+                            
+                        
+                    
+                    }
+
+
+                    .presstext {
+
+                        font-family: "Arial";
+                        text-align: center;
+                        font-size: 2rem;
+                        line-height: 1.5;
+                        color: white;
+                        padding: 0% 0%;
+                        margin-bottom: 40px;
+                        padding-top: 3%;
+                        
+                
+                    }
+                
+                    .presstext2{
+                
+                        font-family: "Arial";
+                        text-align: center;
+                        font-size: 1.7rem;
+                        line-height: 1.5;
+                        color: white;
+                        padding: 5% 0% 0% 0%;
+                
+                    }
+
+                    .special-container{
+
+                        padding: 0% 10%;
+
+                    }
+
+
+                    .special-container2{
+                        padding: 0% 10%;
+                    }
+
+                    .nav-link {
+                        font-size:1rem;
+                        font-family: "Arial";
+                        text-decoration: none;
+                        color: lightgray;
+                        text-align:right;
+                        padding:0%;
+                        
+                        
+                        
+                           }
+
+                           .footerlogo {
+
+                            width:20%;
+                            right: 20px;
+                            
+                            
+                            
+                        
+                        }
+
+
+
+                        #pricing {
+
+                            padding: 5% 15%;
+                            background-color: #13003F;
+                            
+                        }
+                        
+                        .signup-button {
+                        
+                            
+                            font-family: 'Arial';
+                        }
+                        
+                        .pricing-column {
+                        padding: 3% 2%;
+                        
+                            font-family: Arial;
+                            color: #13003F;
+                            
+                        
+                        }
+                        
+                        .pricingheader {
+                            color: white;
+                            font-size: 2rem;
+                           
+                            font-family: Arial;
+                            text-align:center;
+                            
+                        }
+                        
+                        
+                        .pricingsecond {
+                        
+                            color:lightslategray;
+                            font-size: 1.2rem;
+                            
+                            font-family: Arial;
+                            text-align:center;
+                        
+                        }
+}
+
